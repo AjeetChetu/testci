@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
  echo 'display_errors = ' . ini_get('display_errors') . "\n";
 echo 'register_globals = ' . ini_get('register_globals') . "\n";
 echo 'post_max_size = ' . ini_get('post_max_size') . "\n";
